@@ -1,0 +1,36 @@
+.btn {
+    border: solid 1px #c62828;
+    background-color: #c62828;
+    padding: 5px 16px; 
+    border-radius: 3px;
+    text-decoration: none;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.btn:hover {
+    background-color: red;
+    color: white;
+}
+
+.primary-btn {
+    background-color: #8bc34a;
+    color: white;
+    border-color: #5a9216;
+}
+
+.primary-btn:hover {
+    background-color: #bef67a;
+    color: green;
+}
+
+.secondary-btn {
+    background-color: #01579b;
+    color: white;
+    border-color: #01579b;    
+}
+
+.secondary-btn:hover {
+    background-color: #4f83cc;
+    color: white;
+}
